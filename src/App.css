@@ -1,0 +1,47 @@
+.App {
+  /*text-align: center;*/
+  margin: 50px;
+}
+
+canvas {
+    margin: auto;
+}
+
+hr {
+    margin: 10px 0 30px 0;
+    opacity: 0.7;
+}
+
+#slider {
+  /*max-width: 65%;*/
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+#title {
+    /*margin-bottom: 50px;*/
+}
+
+#container {
+    height: 75px;
+    margin-top: 20px;
+    border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px #888888;
+}
+
+.slider-container {
+    width: 70%;
+    margin: 0 50px;
+    align-self: center;
+}
+
+.typography-container {
+    width: 30%;
+    background-color: #D3D3D3;
+    align-content: center;
+}
